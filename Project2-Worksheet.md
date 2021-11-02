@@ -17,7 +17,7 @@ a log of their progress throughout the week (Mon - Fri) and last but not least a
 (a gif for work harder, keep up the hard work and congratulations you rock based on the stats/log).
 
 
-###API
+### API
 
 [GIPHY DEVELOPERS] (api.giphy.com/v1/gifs/search?EmU9dpXgxO9PChhSA8GxpHFFNVqwufK1&q:string&limit:integer&rating:)
 * Will need to add giphy with a function that selects random options from within 3 categories based on individual user results
@@ -26,11 +26,11 @@ a log of their progress throughout the week (Mon - Fri) and last but not least a
 
 ## Wireframes
 
-###PHONE WIREFRAME- 
+### PHONE WIREFRAME- 
 
 -[Mobile Home](https://res.cloudinary.com/dvvill/image/upload/v1635845597/SEI-Project-2-Phone-View_eiv2ko.png)
 
-###DESKTOP WIREFRAME-
+### DESKTOP WIREFRAME-
 
 -[Desktop Home](https://res.cloudinary.com/dvvill/image/upload/v1635878600/SEI-PROJECT_2-DESKTOP-VIEW_ripn1q.png)
 
