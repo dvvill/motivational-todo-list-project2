@@ -62,11 +62,11 @@ a log of their progress throughout the week (Mon - Fri) and last but not least a
 -[React Components Architecture](https://res.cloudinary.com/dvvill/image/upload/v1635893639/SEI-PROJECT2-COMPONENTS-ARCHITECTURE-VIEW_uwspb4.png)
 
 
-|  Component | Priority | Estimated Time | Time Invested | Actual Time |
-|:-----------|:---------||:------------- |:------------- |:------------|
-|Adding Form| High | 10hrs |
-|Working w/API| High | 3hrs |
-|Total|       High |  13hrs |
+|Component|Priority|Estimated Time|Time Invested|Actual Time|
+|:--------|:-------|:-------------|:------------|:----------|
+|Adding Form|High|10hrs|
+|Working w/API|High|3hrs|
+|Total| High|13hrs|
 
 ## Additional Libraries
 
