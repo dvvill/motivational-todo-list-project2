@@ -34,9 +34,9 @@ a log of their progress throughout the week (Mon - Fri) and last but not least a
 
 -[Desktop Home](https://res.cloudinary.com/dvvill/image/upload/v1635878600/SEI-PROJECT_2-DESKTOP-VIEW_ripn1q.png)
 
-##MVP/PostMVP
+### MVP/PostMVP
 
-###MVP
+### MVP
 
 * Use external API
 * Create Navbar; 3 Links 
@@ -50,7 +50,7 @@ a log of their progress throughout the week (Mon - Fri) and last but not least a
   per/day-> R. Gif= keep it up, doing good, (encouragement). In the 3- To-Do's range per/day-> R. Gif= Great job, superstar, (Congratulate/Reward)
 
 
-###PostMVP
+### PostMVP
 
 * Add a way to record/store long term stats 
 * Add a way to interpret long-term stats data; is user creating new habits, being more productive, feeling different in some way.
