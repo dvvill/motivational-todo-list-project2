@@ -7,7 +7,7 @@
 
 ## Project Description
 The Get Shit Done App. The concept is, a habit forming, To-do App.  It will have a nav bar with 3 links, 1- **Lists**, 1- **Today** (for that days To-Do's) and 
-1- **Week** (for that weeks view of To-Do's).  Within the **Lists** link the user will be able to create, delete and (hopefully) mark off items as complete too. The
+1- **Week** (for that weeks view of To-Do's).  Within the **Lists** link the user will be able to create, delete and (hopefully) mark off items as completed too. The
 user will be able to add **items/Lists** to specific days of the week and then be able to view those items in the link for **Today** or in the link for the **Week** 
 overview. The idea is to keep the app simple and more as a supplement to a persons agenda/calendar if they happen to manage one already be it online or (Goodness 
 forbid) on paper. The goal is for the user to set & complete no more than 3 **MUST DO To-Do's Every Day** for **One Week** and decide on a reward they would give 
