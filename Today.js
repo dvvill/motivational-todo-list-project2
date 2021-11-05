@@ -2,11 +2,14 @@ import React from 'react'
 import '../App.css';
 
 
-const Today = () => {
+
+function Today() {
     return (
-        <div>
-            <h1>hello there</h1>
+       
+        <div className="today">
+            <h1>Today</h1>
         </div> 
+        
     );
 };
 

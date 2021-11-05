@@ -2,12 +2,14 @@ import React from 'react'
 import '../App.css';
 
 
-const Lists = () => {
+
+function Lists() {
     return (
-        <div>
+
+        <div className="list">
             <h1>Lists Page</h1>
- 
-        </div> 
+        </div>
+        
     );
 };
 
